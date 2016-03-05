@@ -8,9 +8,22 @@
   },
   "author": "Besiara",
   "license": "ISC",
-  "dependencies":{
-    "bootstrap":"latest",
+  "dependencies": {
+    "bootstrap": "latest",
     "angular": "latest",
-    "gulp":"latest"
-  }
+    "gulp": "latest",
+    "angular-local-storage": "latest",
+    "bootstrap-material-design": "latest",
+    "jquery" : "latest"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Besiara/WorkoutList.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Besiara/WorkoutList/issues"
+  },
+  "homepage": "https://github.com/Besiara/WorkoutList#readme"
 }

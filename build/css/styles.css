@@ -1,0 +1,31 @@
+.workIco {color: rgb(51, 51, 51); width: 30px; margin-right: 10px; position: relative; top: -2px;}
+.mainForm {max-width: 500px; margin: 15px auto; padding: 20px 0 20px 0;}
+.excisesList {max-width: 500px; margin: 15px auto;}
+    .mainForm .form-control{padding: 0;}
+.mainForm .btn {border: 0;}
+.mainForm .btn.btn-fab {padding-top: 9px; font-size: 30px; font-weight: bold; font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;}
+.form-group.label-floating label.control-label, .form-group.label-placeholder label.control-label {left: 0;}
+.btn:not(.btn-raised):not(.btn-link):hover, .input-group-btn .btn:not(.btn-raised):not(.btn-link):hover, .btn:not(.btn-raised):not(.btn-link):focus, .input-group-btn .btn:not(.btn-raised):not(.btn-link):focus {color: #000;}
+.btnActive {color: #000 !important; background-color: #EEE !important;}
+h2 i {padding-right: 10px;}
+.panel-body, .panel-footer {padding: 0;}
+.panel-body {margin:0 15px 0 15px; padding: 15px 0 15px 0; position:relative;}
+.setsButtons a.btn.btn-fab {margin-right: 2px;}
+.setsButtons a.btn.btn-fab:last-child {margin-right: 0;}
+.setConf {border-bottom: 1px solid #ddd; padding-bottom: 15px;}
+    .setConf .form-group {margin-top: 0;}
+    .setConf h4 { font-weight: bold;}
+    .setConf h4 i {position: relative; top: 5px;}
+    .setConf .col-xs-3 {padding-right: 10px; padding-left: 10px;}
+.togglebutton {margin-top: 10px;}
+    .togglebutton i {position: relative; top: 7px;}
+    .togglebutton label .toggle {margin-right: 3px;}
+.timerIco {display: none; position: relative; top: 5px;}
+    .timerIco.timerActive {display: inline-block; color: #000;}
+    .timerIco.timerInActive {display: inline-block;} 
+.soundIco {display: none; position: relative; top: 5px;}
+    .soundIco.soundActive {display: inline-block; color: #000;}
+    .soundIco.soundInActive {display: inline-block;}
+
+.setStyle {background-color: #eee; width: 17.6%; padding:8px; margin-right: 3%; float: left; overflow: hidden; border: 1px solid #ddd;}
+.setStyle.last-child {margin-right: 0;}

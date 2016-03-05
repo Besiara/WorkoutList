@@ -1,0 +1,16 @@
+{
+  "name": "angular-test-task",
+  "version": "1.0.0",
+  "description": " Performance Assessment Task. Gym.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Besiara",
+  "license": "ISC",
+  "dependencies":{
+    "bootstrap":"latest",
+    "angular": "latest",
+    "gulp":"latest"
+  }
+}
